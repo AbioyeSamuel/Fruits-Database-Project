@@ -1,0 +1,15 @@
+{
+  "name": "fruitsproject",
+  "version": "1.0.0",
+  "description": "A fruit project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abioye Samuel",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.4"
+  }
+}
